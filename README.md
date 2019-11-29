@@ -15,7 +15,7 @@ John Smith: jhons@andrew.cmu.edu<br/>
 Ellen Walkar: ellenw@andrew.cmu.edu
 
 # Description
-Anything other than the <b>Project Name, Project problem type, Project Industry, Technologies used and Participants<b/> are add on data inputs.<br/> For this Repository, we have 3 main parts:<br/>
+Anything other than the Project Name, Project problem type, Project Industry, Technologies used and Participants are add on data inputs.<br/> For this Repository, we have 3 main parts:<br/>
 <ol>
   <li>Sample README.md</li>
   <li>Document Folder for documents</li>
