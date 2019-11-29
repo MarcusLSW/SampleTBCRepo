@@ -6,7 +6,7 @@ import pandas as pd
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
-token = 'xoxp-741285264438-738634010148-813678252069-abf2d74fbf3f86d71362ff11201de2ae'
+token = '-----'
 
 # get the channels that are readable for the slack group
 params = {'token': token}
