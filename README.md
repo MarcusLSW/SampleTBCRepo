@@ -1,5 +1,5 @@
 # Project name
-AlgoMed
+Example Repo
 
 # Project problem type
 Provenance
